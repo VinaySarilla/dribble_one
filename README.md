@@ -2,10 +2,14 @@
 
 ## Converting Dribble designs to React Projects
 
-Dribble Project Design
+Dribble Design
 https://dribbble.com/shots/18583274-Lotus-Mobile-App-for-Yoga-and-Meditations
 
 ![image](https://user-images.githubusercontent.com/29604767/178774336-d4982f2a-aa11-4de3-99b4-a23bfb4f33bf.png)
+
+React Development
+
+https://user-images.githubusercontent.com/29604767/178777243-d944c7d2-33b4-430c-8dc0-53f1dc03b108.mp4
 
 
 # Technologies
